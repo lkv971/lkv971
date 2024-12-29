@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lkv971,
 
-I'm passionate about data analytics and engineering, with a strong focus on transforming raw data into meaningful insights. I enjoy working with SQL, Power BI, and Microsoft Fabric (Synapse Data Engineering) to create efficient data pipelines and visually compelling dashboards.
+I'm passionate about data analytics and engineering, with a strong focus on transforming raw data into meaningful insights. I enjoy working with SQL, Power BI, and Microsoft Fabric to create efficient data pipelines and visually compelling dashboards.
 
 🔧 **Skills:**
 - **SQL**: Proficient in writing complex queries and managing database structures.
