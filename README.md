@@ -12,4 +12,5 @@ Specializing in end-to-end **Microsoft Fabric analytics**.
 - [Fleet Management Dashboards](https://github.com/lkv971/fabric-logistics-fleet-analytics) 
 - [Supply Chain Pipeline](https://github.com/lkv971/fabric-ecom-supplychain-analytics)
 
- **Contact:** leeroyvaillant@outlook.com
+ **Contact:** 
+ leeroyvaillant@outlook.com
