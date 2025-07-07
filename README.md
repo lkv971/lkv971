@@ -1,7 +1,7 @@
 ###  Hi, I'm Lee-roy!
 
 Specializing in end-to-end **Microsoft Fabric analytics**.  
-**Medallion Lakehouse/Warehouse | DAX/RLS Semantic Models | Power BI**
+**Medallion Lakehouse/Warehouse | Pipelines | Semantic Models | Power BI**
 
  **Certifications:**  
 - Microsoft Fabric Data Engineer (DP-700)  
