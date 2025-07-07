@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Lee-roy!
 
-<!--
-**lkv971/lkv971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in end-to-end **Microsoft Fabric analytics**.  
+**Medallion Lakehouse/Warehouse | DAX/RLS Semantic Models | Power BI**
 
-Here are some ideas to get you started:
+📌 **Certifications:**  
+- Microsoft Fabric Data Engineer (DP-700)  
+- Microsoft Fabric Analytics Engineer (DP-600)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗂 **Featured Projects:**  
+- [Critical Minerals Analytics](https://github.com/lkv971/fabric-minerals-analytics)  
+- [Fleet Management Dashboards](https://github.com/lkv971/fabric-logistics-fleet-analytics) 
+- [Supply Chain Pipeline](https://github.com/lkv971/fabric-ecom-supplychain-analytics)
+
+📫 **Contact:** leeroyvaillant@outlook.com
