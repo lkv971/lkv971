@@ -1,16 +1,41 @@
 ###  Hi, I'm Lee-roy!
 
-Specializing in end-to-end **Microsoft Fabric analytics**.  
-**Medallion Lakehouse/Warehouse | Pipelines | Semantic Models | Power BI**
+Crafting end-to-end analytics solutions on Microsoft Fabric
+Medallion Lakehouse/Warehouse • Eventstream • Eventhouse • Pipelines • Semantic Models • Power BI
 
- **Certifications:**  
-- Microsoft Fabric Data Engineer (DP-700)  
-- Microsoft Fabric Analytics Engineer (DP-600)
+## About Me
+I design and build enterprise-grade analytics platforms on Microsoft Fabric, transforming raw data into actionable insights. My expertise spans both batch processing and real-time streaming architectures, ensuring data quality and performant reporting.
 
- **Featured Projects:**  
-- [Critical Minerals Analytics](https://github.com/lkv971/fabric-minerals-analytics)  
-- [Fleet Management Dashboards](https://github.com/lkv971/fabric-logistics-fleet-analytics) 
-- [Supply Chain Pipeline](https://github.com/lkv971/fabric-ecom-supplychain-analytics)
+---
 
- **Contact:** 
- - leeroyvaillant@outlook.com
+## Tech Stack
+- **Fabric Services:** Lakehouse, Warehouse, Pipelines, Eventstream, Eventhouse  
+- **Languages & Frameworks:** PySpark, T-SQL, KQL, DAX  
+- **BI & Modeling:** Power BI Desktop, Semantic Models  
+- **Version Control:** Git & Fabric Git integration  
+
+---
+
+## Certifications
+- **Microsoft Fabric Data Engineer (DP-700)**  
+- **Microsoft Fabric Analytics Engineer (DP-600)**  
+
+---
+
+## Featured Projects
+- **[Critical Minerals Analytics](https://github.com/lkv971/fabric-minerals-analytics)**  
+  Batch ingestion from CSV files into a medallion Lakehouse, star-schema transforms, and Power BI dashboards.
+
+- **[Fleet Management Analytics](https://github.com/lkv971/fabric-logistics-fleet-analytics)**  
+  Batch loads from SSMS/CSV into Fabric pipelines, star-schema modeling, and interactive Power BI reports.
+
+- **[Supply Chain Pipeline](https://github.com/lkv971/fabric-ecom-supplychain-analytics)**  
+  Automated batch dataflows for e-commerce supply chain data, incremental loads, and semantic modeling.
+
+- **[Real-Time Flight Ops](https://github.com/your-org/fabric-realtime-flight-ops)**  
+  True real-time streaming via Eventstream/Eventhouse, Delta Lakehouse, star schema, and dual dashboards.
+
+---
+
+## Contact
+- **Email:** [leeroyvaillant@outlook.com](mailto:leeroyvaillant@outlook.com)  
