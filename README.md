@@ -34,6 +34,9 @@ I design and build enterprise-grade analytics platforms on Microsoft Fabric, tra
 
 - **[Real-Time Flight Ops](https://github.com/lkv971/fabric-realtime-flight-ops)**  
   True real-time streaming via Eventstream/Eventhouse, Delta Lakehouse, star schema, and dual dashboards.
+  
+- **[Distribution Control Tower Analytics](https://github.com/lkv971/distribution-control-tower-ml)
+  Medallion architecture implementation with specialized time series forecasting for Novelty Shops, distribution KPIs, and executive dashboards.
 
 ---
 
