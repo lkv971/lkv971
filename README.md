@@ -55,6 +55,7 @@ My work focuses on building production-style solutions that move from raw source
 
 - **Microsoft Certified: Fabric Analytics Engineer Associate — DP-600**
 - **Microsoft Certified: Fabric Data Engineer Associate — DP-700**
+- **Microsoft Certified: Azure Databricks Data Engineer Associate — DP-750**
 
 **Currently expanding into Azure Databricks and Microsoft AI engineering.**
 
